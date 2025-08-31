@@ -1,5 +1,5 @@
 # Amcres-DNS-Disable
-A pyton script for stopping amcrest cameras from sending DNS reqeusts to online servers using the requests library.
+A python script for stopping amcrest cameras from sending DNS requests to online servers using the requests library.
 
 The easiest way to do this is to set all of the login info on all cams the same, fill out the password and IPs. Plug your DVR and IPC cam IPs in the respective lists.
 
